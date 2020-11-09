@@ -22,6 +22,7 @@
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
+        
         <Border BorderBrush="Black" BorderThickness="2" Margin="10" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Grid.RowSpan="2">
             <Viewbox x:Name="ViewBox" HorizontalAlignment="Right">
               <TextBlock x:Name="EscribirTextBlock" TextAlignment="Right"/>
